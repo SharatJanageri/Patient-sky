@@ -1,4 +1,4 @@
-## About Project
+## About Project Patient-sky
 
 The application is built in Laravel 9.x and using MVC architecture. The function findAvailableTime() which is initialized in the CalendarCheck Service Class to help to find time available to schedule an appointment based on timeslots available to the participants.
 
